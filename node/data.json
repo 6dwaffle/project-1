@@ -1,0 +1,28 @@
+{
+    "Mumbai":{
+        "Mobile":{
+            "Apple":["SE","14"],
+            "Oppo":["model1","model2"],
+            "Vivo":["model3","model4"]
+    },
+        "Laptop":{
+            "Apple":["air","light"],
+            "Asus":["rog","tuf","notebook"],
+            "HP":["pavillion"]
+        }
+    },
+    "Bangalore":{
+        "Mobile":{
+            "Apple":["SE","14"],
+            "Samsung":["model1","model2"]
+        },
+        "Laptop":{
+            "Apple":["air","light"]
+        },
+        "Fridge":{
+            "Samsung":["model1","model2"],
+            "LG": ["model3","model4"]
+        }
+    },
+    "Kolkata":{}
+}
